@@ -11,13 +11,15 @@
 Расписание занятий:
 - 22.09.2021 (вторник), 17:00-20:15
 
-  Ссылка для подключения: https://zoom.us/j/96334132201?pwd=MGIwWU5uWThLVXMyUTRpa3hSdE9DQT09
+  [Ссылка для подключения](https://zoom.us/j/96334132201?pwd=MGIwWU5uWThLVXMyUTRpa3hSdE9DQT09)
   
   Лекция: Теоретические основы цифровой обработки изображений
+  
+  [Запись лекции](https://1drv.ms/v/s!AvM8VWt8XD6Kic09qrRRLDVVYnGWzg?e=OLb11X)
  
 - 23.09.2021 (четверг), 17:00-20:15 
 
-  Ссылка для подключения: https://zoom.us/j/98335688074?pwd=U1REanpBS2wvVGV5NjNoVm9IMlFmUT09
+  [Ссылка для подключения](https://zoom.us/j/98335688074?pwd=U1REanpBS2wvVGV5NjNoVm9IMlFmUT09)
   
   Лекция: Методы анализа цифровых изображений
 
