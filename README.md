@@ -15,6 +15,8 @@
   
   Лекция: Теоретические основы цифровой обработки изображений
   
+  [Презентация](https://github.com/PavelYakimov/dpo-cv/files/7216049/_.1.pdf)
+  
   [Запись лекции](https://1drv.ms/v/s!AvM8VWt8XD6Kic09qrRRLDVVYnGWzg?e=OLb11X)
  
 - 23.09.2021 (четверг), 17:00-20:15 
