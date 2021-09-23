@@ -27,7 +27,7 @@
   
   [Слайды лекции 2](https://github.com/PavelYakimov/dpo-cv/files/7219141/_.2.pdf)
 
-  Лабораторная работа: Lab1 - Image Processing Basics
+  [Лабораторная работа 1](https://github.com/PavelYakimov/dpo-cv/tree/main/Lab-1)
 
 ### 27.09.2021 (понедельник), 17:00-20:15 
 
