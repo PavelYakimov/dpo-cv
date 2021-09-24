@@ -17,7 +17,7 @@
   
   [Слайды лекции 1](https://github.com/PavelYakimov/dpo-cv/files/7216049/_.1.pdf)
   
-  [Запись лекции](https://1drv.ms/v/s!AvM8VWt8XD6Kic09qrRRLDVVYnGWzg?e=OLb11X)
+  [Запись лекции 1](https://1drv.ms/v/s!AvM8VWt8XD6Kic09qrRRLDVVYnGWzg?e=OLb11X)
  
 ### 23.09.2021 (четверг), 17:00-20:15 
 
@@ -26,6 +26,8 @@
   Лекция: Методы сегментации и анализа цифровых изображений
   
   [Слайды лекции 2](https://github.com/PavelYakimov/dpo-cv/files/7219141/_.2.pdf)
+  
+  [Запись лекции 2](https://1drv.ms/v/s!AvM8VWt8XD6Kic1c-joqtG67Oqbc4A?e=udtrMD)
 
   [Лабораторная работа 1](https://github.com/PavelYakimov/dpo-cv/tree/main/Lab-1)
 
