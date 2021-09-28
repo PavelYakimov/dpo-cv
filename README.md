@@ -35,9 +35,13 @@
 
   [Ссылка для подключения](https://zoom.us/j/94065818857?pwd=QXJSd0NLRXhYK2JmQ1A0aFpValVDZz09)
 
-  Лекция: Быстрый старт: установка и использование библиотеки OpenCV
+  Лекция: Мастер-класс по работе с библиотекой Pillow, 
 
-  Лабораторная работа: Lab2 - OpenCV. Basic operations
+  Лабораторная работа: Lab1 - Pillow. Image denoising.
+  
+  [Ссылка на блокнот мастер-класса](https://github.com/PavelYakimov/dpo-cv/blob/main/Lab-1/Lab-1-draft.ipynb)
+  
+  [Запись мастер-класса](https://1drv.ms/v/s!AvM8VWt8XD6Kic5I_8ixzMf4VCGNKQ?e=JYZ4af)
 
 ### 28.09.2021 (вторник), 17:00-20:15
 
