@@ -45,15 +45,15 @@
   
   [Запись мастер-класса](https://1drv.ms/v/s!AvM8VWt8XD6Kic5a5ZrezQITkDCr2A?e=Qksway)
   
-  Лабораторная работа: Lab2 - OpenCV. Basic operations
+  [Лабораторная работа: Lab2 - OpenCV. Basic operations](https://github.com/PavelYakimov/dpo-cv/tree/main/Lab-2)
 
 ### День 5 (30.09.2021, четверг), 17:00-20:15
 
-  [Ссылка для подключения](https://zoom.us/j/95639248368?pwd=VzA2VnhCQ1pYVHkybDlhQURuZmR3Zz09)
+  Лекция 5: Арифметические операции над изображениями. Бинаризация в OpenCV. cv2.filter2D()
 
-  Лекция: Арифметические операции над изображениями. Измерение производительности и оптимизация
+  [Запись мастер-класса](https://1drv.ms/v/s!AvM8VWt8XD6Kic82hStsuY2XkBK60w?e=JduMN0)
 
-  Лабораторная работа: Lab2 - OpenCV. Basic operations
+  [Лабораторная работа: Lab2 - OpenCV. Basic operations](https://github.com/PavelYakimov/dpo-cv/tree/main/Lab-2)
 
 ### День 6 (04.10.2021, понедельник), 17:00-20:15 
 
