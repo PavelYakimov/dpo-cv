@@ -62,18 +62,18 @@
   [Запись мастер-класса](https://1drv.ms/u/s!AvM8VWt8XD6Kic9PQidrmDdthTF5cQ?e=EhNSsC)
 
 ### День 7 (05.10.2021, вторник), 18:00-20:15 
-
-  [Ссылка для подключения](https://zoom.us/j/98218399048?pwd=SzZmZ0JYeDRnRlRkMVlwUjl5M0ZPZz09)
   
-  Лекция: Методы поиска ключевых точек
-
-  Лабораторная работа: Lab3 - Object Recognition
+  Лекция 7: Работа с вебкамерой. Детектирование лиц при помощи Cascade Classifier.
+  
+  [Запись мастер-класса](https://1drv.ms/v/s!AvM8VWt8XD6Kic9Z-3r4B7RNr0C-TA?e=mZ2Rfo)
+  
+  [Лабораторная работа: Lab3 - Face Recognition](https://github.com/PavelYakimov/dpo-cv/tree/main/Lab-3)
 
 ### День 8 (07.10.2021, четверг), 18:00-20:15 
 
   [Ссылка для подключения](https://zoom.us/j/97652253883?pwd=S3lqekVQOWd0YU91cCt0dU9JVEl6UT09)
   
-  Лекция: Методы сегментации изображений
+  Лекция 8: TBD
   
   ## Темы для индивидуальных проектов
 1.	Детектирование объектов в видеопотоке
